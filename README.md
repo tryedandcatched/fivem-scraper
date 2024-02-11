@@ -14,15 +14,12 @@ This project is a small scraper designed to retrieve information about online pl
    - Rust installed on your system. 🦀
    - Clone this repository and navigate to the project directory. 📂
 
-2. **Configuration**:
-   - Modify the settings in the `config.toml` file to set the IP address and port of the FiveM server you want to scrape. 🛠️
-
-3. **Execution**:
+2. **Execution**:
    - Build the project using `cargo build --release`. 🚀
    - Run the executable generated in the `target/release` directory. 🏃‍♂️
 
-4. **Results**:
-   - The results will be displayed in the console or stored in a file depending on the defined configuration. 📝
+3. **Results**:
+   - The results will be displayed in the console or stored in a file. 📝
 
 ## Contributions 🤝
 
